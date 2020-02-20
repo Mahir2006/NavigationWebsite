@@ -105,7 +105,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 <div id="map"></div>
  
 <script>
-	mapboxgl.accessToken = 'pk.eyJ1IjoibWFoaXI5OTIiLCJhIjoiY2sydDNzamJjMTNuczNjcWJjNWRwYmoyOCJ9.ruylkI8AagzGNDR1DcqZSg';
+	mapboxgl.accessToken = '';
 	
 var map = new mapboxgl.Map({
 container: 'map',
